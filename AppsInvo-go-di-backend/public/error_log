@@ -1,0 +1,1 @@
+[24-Sep-2018 05:56:25 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nikhillamba/public_html/go-di/app/Http/Controllers/Api/LoginController.php on line 1099
